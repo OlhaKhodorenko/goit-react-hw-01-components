@@ -1,34 +1,35 @@
-.item{
-    padding: 5px;
-    margin: 10px auto 0;
-    width: 310px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    box-shadow:  1px 1px 4px 2px #bbc3bb;
-    border-radius: 4px;
+.item {
+  padding: 5px;
+  margin: 10px auto 0;
+  width: 310px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 1px 1px 4px 2px #bbc3bb;
+  border-radius: 4px;
 }
-.item span,.item img,.item p{
-margin: 0 10px;
+.item span,
+.item img,
+.item p {
+  margin: 0 10px;
 }
-.statusOnline{
-
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background-color: rgb(35, 206, 35);
+.statusOnline {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: rgb(35, 206, 35);
 }
-.statusOffline{
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background-color: rgb(206, 35, 44);
+.statusOffline {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: rgb(206, 35, 44);
 }
-.avatar{
-    border-radius: 3px;
-    box-shadow:  1px 1px 2px 1px #bbc3bb;
+.avatar {
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px 1px #bbc3bb;
 }
-.name{
-    font-size: 24px;
-    font-weight: 600;
+.name {
+  font-size: 24px;
+  font-weight: 600;
 }
